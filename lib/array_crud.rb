@@ -28,7 +28,6 @@ end
 
 def retrieve_first_element_from_array(array)
   array.first
-
 end
 
 def retrieve_last_element_from_array(array)
